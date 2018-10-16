@@ -1,0 +1,4 @@
+E:\c++tools\cmake-3.7.2-win64-x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\admin\CLionProjects\testc++
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/admin/CLionProjects/testc++/cmake-build-debug

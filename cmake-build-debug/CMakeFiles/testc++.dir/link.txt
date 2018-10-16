@@ -1,0 +1,3 @@
+E:\c++tools\cmake-3.7.2-win64-x64\bin\cmake.exe -E remove -f CMakeFiles\testc++.dir/objects.a
+E:\c++tools\GCC\bin\ar.exe cr CMakeFiles\testc++.dir/objects.a @CMakeFiles\testc++.dir\objects1.rsp
+E:\c++tools\GCC\bin\g++.exe  -g   -Wl,--whole-archive CMakeFiles\testc++.dir/objects.a -Wl,--no-whole-archive  -o testc++.exe -Wl,--out-implib,libtestc++.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testc++.dir\linklibs.rsp

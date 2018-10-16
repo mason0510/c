@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/CLionProjects/testc++/getTimeNow.cpp
+iostream
+C:/Users/admin/CLionProjects/testc++/iostream
+ctime
+C:/Users/admin/CLionProjects/testc++/ctime
+stdlib.h
+C:/Users/admin/CLionProjects/testc++/stdlib.h
+stdio.h
+C:/Users/admin/CLionProjects/testc++/stdio.h
+

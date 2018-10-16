@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/CLionProjects/testc++/exception.cpp
+iostream
+-
+vector
+-
+string
+-
+stdio.h
+-
+stdlib.h
+-
+cgicc/CgiDefs.h
+-
+cgicc/Cgicc.h
+-
+cgicc/HTTPHTMLHeader.h
+-
+cgicc/HTMLClasses.h
+-
+
